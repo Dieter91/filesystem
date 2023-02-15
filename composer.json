@@ -6,12 +6,12 @@
         "acacha",
         "filesystem"
     ],
-    "homepage": "https://github.com/acacha/filesystem",
+    "homepage": "https://github.com/dieter91/filesystem",
     "license": "MIT",
     "authors": [
         {
             "name": "Dieter Vrancken",
-            "email": "dieter.v91@@gmail.com",
+            "email": "dieter.v91@gmail.com",
             "homepage": "https://github.com/dieterv91",
             "role": "Developer"
         }
